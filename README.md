@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # voca-react
-영단어 외우기 앱 만들기 
-=======
+영단어 앱 만들기 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
